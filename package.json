@@ -1,0 +1,14 @@
+{
+  "name": "00_mochatest",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "test": "mocha"
+  },
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "chia": "^0.0.1",
+    "mocha": "^7.1.0"
+  }
+}
